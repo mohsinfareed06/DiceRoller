@@ -13,8 +13,6 @@ class GradientContainer extends StatelessWidget {
 
   @override
   Widget build(context) {
-    final Color asd;
-
     return Container(
       decoration: BoxDecoration(
         gradient: LinearGradient(
